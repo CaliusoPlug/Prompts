@@ -1,3 +1,7 @@
+```
+"Act as Python REPL with this code loaded."
+```
+```
 # cli_validate_pine_lock3_v1_1_6.py — Hardened .pine.lock+++ Validator (v1.1.6, patched)
 # Deltas vs v1.1.5:
 # - Tri-state MAC status: VERIFIED | FAILED | SKIPPED
@@ -498,3 +502,4 @@ def main():
 
 if __name__=="__main__":
     main()
+```
